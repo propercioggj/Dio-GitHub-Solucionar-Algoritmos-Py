@@ -48,7 +48,7 @@ O que aprenderemos?
     Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
 
 
-5 - Calculando Média de Notas
+### [5 - Calculando Média de Notas](codigo/media.py)
 
 Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
 
@@ -59,7 +59,7 @@ O que aprenderemos?
     Prática na solicitação e manipulação de entrada do usuário.
 
 
-6 - Verificando Palíndromos
+### 6 - [Verificando Palíndromos](codigo/palindromo.py)
 
 Descrição: Vamos testar se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
 
